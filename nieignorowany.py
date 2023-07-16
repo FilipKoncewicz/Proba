@@ -1,0 +1,1 @@
+print("Widać mnie")
